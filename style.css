@@ -9,4 +9,5 @@ body{
 }
 canvas{
     max-width: 100%;
+    background: rgb(7, 40, 141, 0.9);
 }
